@@ -10,5 +10,3 @@ confirmPassword.addEventListener('input', (e) => {
         notMatch[0].innerText = 'password do not match';
     }
 });
-
-// test
